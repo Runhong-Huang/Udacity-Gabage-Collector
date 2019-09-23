@@ -26,3 +26,4 @@ $ ./compiled
 - Complete `Pointer` `operator==`
 - Complete `Pointer` destructor
 - Complete `PtrDetails` class
+# Udacity-Gabage-Collector
